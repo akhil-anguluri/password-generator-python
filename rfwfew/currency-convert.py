@@ -21,7 +21,7 @@ def generate_password(length, use_lowercase, use_uppercase, use_numbers, use_spe
 
 def main():
     print("Password Generator")
-    print("------------------")
+    print("-------------------")
 
     try:
         # Get user-defined parameters
